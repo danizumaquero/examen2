@@ -5,6 +5,8 @@ public class pruebas2 {
 		// TODO Auto-generated method stub
         System.out.println("Hola mundo");
         System.out.println("daniel zumaquero");
+        System.out.println("Entorno de desarrollo examen");
+
 	}
 
 }
